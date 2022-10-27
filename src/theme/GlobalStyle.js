@@ -7,7 +7,6 @@ export default function GlobalStyle() {
           box-sizing: border-box;
           padding: 0;
           margin: 0;
-          zoom: 1.05045;
         }
         a {
           text-decoration: none;
