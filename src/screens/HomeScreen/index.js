@@ -103,7 +103,6 @@ export default function HomeScreen() {
       <Box
         as="main"
         styleSheet={{
-          flex: 1,
           backgroundColor: theme.colors.neutral["050"],
         }}
       >
@@ -119,7 +118,7 @@ export default function HomeScreen() {
             },
             paddingVertical: {
               md: theme.space.x20,
-              lg: theme.space.x24,
+              lg: theme.space.x16,
             },
           }}
         >
